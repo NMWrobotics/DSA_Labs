@@ -50,7 +50,6 @@ void heapSort(int arr[], int n)
 
    }
 
-
 }
   
 /* print contents of array */
